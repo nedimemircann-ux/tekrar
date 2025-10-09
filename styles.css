@@ -1,0 +1,48 @@
+html{
+    background-color: green;
+    h2 {
+        color: red;
+    }
+    .red-text{
+        color: red;
+        background-color: purple;
+    }
+    .blue-text{
+        color: blue;
+        text-align: center;
+    }
+#musa{
+    color: greenyellow;
+    background-color: purple;
+    font-size: xx-large;
+}
+p[draggable]{
+    color:deepskyblue;
+    background-color: dimgrey;
+    text-align: center;
+}
+h1{
+    font-family: 'Courier New', Courier, monospace;
+}
+h2{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+}
+#pixel{
+    font-size: 20px;
+}
+#point{
+    font-size: 20pt;
+}
+#em{
+    font-size: 3em;
+}
+#rem{
+    font-size: 2rem;
+}
+#footer{
+    font-size: 12pt;
+}
+#html{
+    font-size: xx-large;
+}
