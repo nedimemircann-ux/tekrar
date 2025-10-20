@@ -1,0 +1,19 @@
+.kutu {
+  background-color: blue;
+  padding: 10px;
+}
+
+p {
+  color: yellow;
+  margin: 0;
+  padding: 0;
+}
+.kutu2 {
+    background-color: red;
+    p{ color: white;}
+    padding: 10px;  
+}
+.mor {
+    background-color: purple;
+    padding: 10px;
+}
